@@ -5,7 +5,7 @@ from common import HOTEL_PER_PAGE
 import re
 import math
 import threading
-import queue
+import Queue as queue
 import time
 import logging
 from tadb import taDB
@@ -98,6 +98,7 @@ def start(gid, init_url):
             time.sleep(common.SLEEP_TIME)
             que.task_done()
 
+    s1= gid
     loc_name = init_url[init_url.index(gid) + len(gid) + 1:init_url.rindex('-')]
     logger.info('[location {}] {}'.format(gid, loc_name.replace('_', ' ')))
     soup = common.load_soup_online(init_url)

@@ -6,7 +6,7 @@ import requests
 import time
 import math
 import re
-import queue
+import Queue as queue
 import threading
 import ast
 import logging

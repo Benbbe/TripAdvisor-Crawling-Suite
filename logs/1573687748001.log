@@ -1,0 +1,770 @@
+2019-11-13 18:29:08,005 - root - INFO - parameters: [2; 3; 3; 3; 3]
+2019-11-13 18:29:08,007 - root - INFO - 48 locations found
+2019-11-13 18:29:08,007 - root - INFO - /Hotels-g2600506-Adrar_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,008 - root - INFO - /Hotels-g2600506-Adrar_Province-Hotels.html?m=27216-----260050627216
+2019-11-13 18:29:08,016 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,017 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,017 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,018 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,021 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,021 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,021 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,022 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,022 - root - INFO - retrieving users...
+2019-11-13 18:29:08,023 - root - INFO - 0 users found
+2019-11-13 18:29:08,025 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,026 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,026 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,027 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,027 - root - INFO - /Hotels-g2601017-Chlef_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,028 - root - INFO - /Hotels-g2601017-Chlef_Province-Hotels.html?m=27216-----260101727216
+2019-11-13 18:29:08,030 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,030 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,031 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,031 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,034 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,034 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,034 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,035 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,035 - root - INFO - retrieving users...
+2019-11-13 18:29:08,036 - root - INFO - 0 users found
+2019-11-13 18:29:08,037 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,037 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,038 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,038 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,039 - root - INFO - /Hotels-g2602223-Laghouat_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,039 - root - INFO - /Hotels-g2602223-Laghouat_Province-Hotels.html?m=27216-----260222327216
+2019-11-13 18:29:08,041 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,041 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,042 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,042 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,044 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,045 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,045 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,045 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,046 - root - INFO - retrieving users...
+2019-11-13 18:29:08,047 - root - INFO - 0 users found
+2019-11-13 18:29:08,048 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,049 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,048 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,050 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,050 - root - INFO - /Hotels-g2602372-Oum_El_Bouaghi_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,050 - root - INFO - /Hotels-g2602372-Oum_El_Bouaghi_Province-Hotels.html?m=27216-----260237227216
+2019-11-13 18:29:08,052 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,052 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,052 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,053 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,055 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,056 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,056 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,056 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,057 - root - INFO - retrieving users...
+2019-11-13 18:29:08,058 - root - INFO - 0 users found
+2019-11-13 18:29:08,059 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,059 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,060 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,060 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,061 - root - INFO - /Hotels-g2600717-Batna_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,061 - root - INFO - /Hotels-g2600717-Batna_Province-Hotels.html?m=27216-----260071727216
+2019-11-13 18:29:08,063 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,063 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,063 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,064 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,066 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,066 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,067 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,067 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,068 - root - INFO - retrieving users...
+2019-11-13 18:29:08,068 - root - INFO - 0 users found
+2019-11-13 18:29:08,070 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,070 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,070 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,071 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,071 - root - INFO - /Hotels-g2600752-Bejaia_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,071 - root - INFO - /Hotels-g2600752-Bejaia_Province-Hotels.html?m=27216-----260075227216
+2019-11-13 18:29:08,073 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,074 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,074 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,075 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,077 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,077 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,077 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,078 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,078 - root - INFO - retrieving users...
+2019-11-13 18:29:08,079 - root - INFO - 0 users found
+2019-11-13 18:29:08,080 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,080 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,081 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,081 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,081 - root - INFO - /Hotels-g2600809-Biskra_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,081 - root - INFO - /Hotels-g2600809-Biskra_Province-Hotels.html?m=27216-----260080927216
+2019-11-13 18:29:08,083 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,084 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,084 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,084 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,086 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,086 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,087 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,087 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,087 - root - INFO - retrieving users...
+2019-11-13 18:29:08,088 - root - INFO - 0 users found
+2019-11-13 18:29:08,089 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,090 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,090 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,091 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,091 - root - INFO - /Hotels-g1071599-Bechar_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,091 - root - INFO - /Hotels-g1071599-Bechar_Province-Hotels.html?m=27216-----107159927216
+2019-11-13 18:29:08,093 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,093 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,094 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,094 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,096 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,096 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,096 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,098 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,098 - root - INFO - retrieving users...
+2019-11-13 18:29:08,098 - root - INFO - 0 users found
+2019-11-13 18:29:08,100 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,101 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,101 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,101 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,102 - root - INFO - /Hotels-g2600822-Blida_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,102 - root - INFO - /Hotels-g2600822-Blida_Province-Hotels.html?m=27216-----260082227216
+2019-11-13 18:29:08,104 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,105 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,105 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,106 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,108 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,108 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,108 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,109 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,109 - root - INFO - retrieving users...
+2019-11-13 18:29:08,110 - root - INFO - 0 users found
+2019-11-13 18:29:08,112 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,112 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,112 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,112 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,113 - root - INFO - /Hotels-g2600903-Bouira_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,113 - root - INFO - /Hotels-g2600903-Bouira_Province-Hotels.html?m=27216-----260090327216
+2019-11-13 18:29:08,115 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,115 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,115 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,116 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,118 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,118 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,119 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,119 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,119 - root - INFO - retrieving users...
+2019-11-13 18:29:08,120 - root - INFO - 0 users found
+2019-11-13 18:29:08,122 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,122 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,122 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,123 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,123 - root - INFO - /Hotels-g2602542-Tamanrasset_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,123 - root - INFO - /Hotels-g2602542-Tamanrasset_Province-Hotels.html?m=27216-----260254227216
+2019-11-13 18:29:08,125 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,125 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,126 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,126 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,128 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,128 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,129 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,129 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,130 - root - INFO - retrieving users...
+2019-11-13 18:29:08,130 - root - INFO - 0 users found
+2019-11-13 18:29:08,132 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,132 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,133 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,133 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,133 - root - INFO - /Hotels-g2602551-Tebessa_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,134 - root - INFO - /Hotels-g2602551-Tebessa_Province-Hotels.html?m=27216-----260255127216
+2019-11-13 18:29:08,135 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,136 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,136 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,137 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,139 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,139 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,139 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,140 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,140 - root - INFO - retrieving users...
+2019-11-13 18:29:08,141 - root - INFO - 0 users found
+2019-11-13 18:29:08,144 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,144 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,145 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,146 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,146 - root - INFO - /Hotels-g734462-Tlemcen_Tlemcen_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,146 - root - INFO - /Hotels-g734462-Tlemcen_Tlemcen_Province-Hotels.html?m=27216-----73446227216
+2019-11-13 18:29:08,149 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,150 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,150 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,151 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,153 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,154 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,154 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,154 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,155 - root - INFO - retrieving users...
+2019-11-13 18:29:08,155 - root - INFO - 0 users found
+2019-11-13 18:29:08,157 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,157 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,159 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,159 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,159 - root - INFO - /Hotels-g2602563-Tiaret_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,160 - root - INFO - /Hotels-g2602563-Tiaret_Province-Hotels.html?m=27216-----260256327216
+2019-11-13 18:29:08,164 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,164 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,165 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,166 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,167 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,168 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,168 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,169 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,169 - root - INFO - retrieving users...
+2019-11-13 18:29:08,170 - root - INFO - 0 users found
+2019-11-13 18:29:08,171 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,171 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,171 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,172 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,172 - root - INFO - /Hotels-g2602617-Tizi_Ouzou_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,173 - root - INFO - /Hotels-g2602617-Tizi_Ouzou_Province-Hotels.html?m=27216-----260261727216
+2019-11-13 18:29:08,176 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,176 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,176 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,177 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,179 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,179 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,179 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,180 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,180 - root - INFO - retrieving users...
+2019-11-13 18:29:08,181 - root - INFO - 0 users found
+2019-11-13 18:29:08,182 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,183 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,183 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,184 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,184 - root - INFO - /Hotels-g293718-Algiers_Algiers_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,184 - root - INFO - /Hotels-g293718-Algiers_Algiers_Province-Hotels.html?m=27216-----29371827216
+2019-11-13 18:29:08,186 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,186 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,187 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,187 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,189 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,190 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,191 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,192 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,192 - root - INFO - retrieving users...
+2019-11-13 18:29:08,193 - root - INFO - 0 users found
+2019-11-13 18:29:08,195 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,195 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,196 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,196 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,196 - root - INFO - /Hotels-g2602043-Djelfa_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,197 - root - INFO - /Hotels-g2602043-Djelfa_Province-Hotels.html?m=27216-----260204327216
+2019-11-13 18:29:08,203 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,203 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,203 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,204 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,206 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,207 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,207 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,207 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,208 - root - INFO - retrieving users...
+2019-11-13 18:29:08,209 - root - INFO - 0 users found
+2019-11-13 18:29:08,210 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,210 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,211 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,211 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,211 - root - INFO - /Hotels-g2602192-Jijel_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,212 - root - INFO - /Hotels-g2602192-Jijel_Province-Hotels.html?m=27216-----260219227216
+2019-11-13 18:29:08,214 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,214 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,214 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,215 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,217 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,217 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,218 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,218 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,218 - root - INFO - retrieving users...
+2019-11-13 18:29:08,219 - root - INFO - 0 users found
+2019-11-13 18:29:08,221 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,221 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,221 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,222 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,222 - root - INFO - /Hotels-g2602426-Setif_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,222 - root - INFO - /Hotels-g2602426-Setif_Province-Hotels.html?m=27216-----260242627216
+2019-11-13 18:29:08,224 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,224 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,225 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,225 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,228 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,228 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,229 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,229 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,229 - root - INFO - retrieving users...
+2019-11-13 18:29:08,230 - root - INFO - 0 users found
+2019-11-13 18:29:08,232 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,232 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,232 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,233 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,233 - root - INFO - /Hotels-g2602416-Saida_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,233 - root - INFO - /Hotels-g2602416-Saida_Province-Hotels.html?m=27216-----260241627216
+2019-11-13 18:29:08,235 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,236 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,236 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,237 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,239 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,239 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,239 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,240 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,240 - root - INFO - retrieving users...
+2019-11-13 18:29:08,241 - root - INFO - 0 users found
+2019-11-13 18:29:08,242 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,243 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,243 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,244 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,244 - root - INFO - /Hotels-g2602492-Skikda_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,244 - root - INFO - /Hotels-g2602492-Skikda_Province-Hotels.html?m=27216-----260249227216
+2019-11-13 18:29:08,246 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,246 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,247 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,247 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,249 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,250 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,250 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,251 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,251 - root - INFO - retrieving users...
+2019-11-13 18:29:08,252 - root - INFO - 0 users found
+2019-11-13 18:29:08,253 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,253 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,254 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,254 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,255 - root - INFO - /Hotels-g2602468-Sidi_Bel_Abbas_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,255 - root - INFO - /Hotels-g2602468-Sidi_Bel_Abbas_Province-Hotels.html?m=27216-----260246827216
+2019-11-13 18:29:08,257 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,257 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,257 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,258 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,260 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,260 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,261 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,261 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,261 - root - INFO - retrieving users...
+2019-11-13 18:29:08,262 - root - INFO - 0 users found
+2019-11-13 18:29:08,264 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,264 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,264 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,265 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,265 - root - INFO - /Hotels-g2600703-Annaba_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,265 - root - INFO - /Hotels-g2600703-Annaba_Province-Hotels.html?m=27216-----260070327216
+2019-11-13 18:29:08,267 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,268 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,268 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,269 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,271 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,271 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,271 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,272 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,272 - root - INFO - retrieving users...
+2019-11-13 18:29:08,273 - root - INFO - 0 users found
+2019-11-13 18:29:08,275 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,275 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,276 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,276 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,277 - root - INFO - /Hotels-g2602134-Guelma_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,277 - root - INFO - /Hotels-g2602134-Guelma_Province-Hotels.html?m=27216-----260213427216
+2019-11-13 18:29:08,279 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,279 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,280 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,281 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,283 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,284 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,284 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,284 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,285 - root - INFO - retrieving users...
+2019-11-13 18:29:08,286 - root - INFO - 0 users found
+2019-11-13 18:29:08,287 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,288 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,288 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,288 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,289 - root - INFO - /Hotels-g2602028-Constantine_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,289 - root - INFO - /Hotels-g2602028-Constantine_Province-Hotels.html?m=27216-----260202827216
+2019-11-13 18:29:08,292 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,292 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,293 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,293 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,295 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,296 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,296 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,297 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,297 - root - INFO - retrieving users...
+2019-11-13 18:29:08,305 - root - INFO - 0 users found
+2019-11-13 18:29:08,307 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,307 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,307 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,308 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,308 - root - INFO - /Hotels-g2602274-Medea_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,308 - root - INFO - /Hotels-g2602274-Medea_Province-Hotels.html?m=27216-----260227427216
+2019-11-13 18:29:08,311 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,311 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,311 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,312 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,314 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,314 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,315 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,315 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,316 - root - INFO - retrieving users...
+2019-11-13 18:29:08,317 - root - INFO - 0 users found
+2019-11-13 18:29:08,319 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,319 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,320 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,321 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,321 - root - INFO - /Hotels-g2602303-Mostaganem_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,321 - root - INFO - /Hotels-g2602303-Mostaganem_Province-Hotels.html?m=27216-----260230327216
+2019-11-13 18:29:08,323 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,324 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,324 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,325 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,327 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,327 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,328 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,328 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,329 - root - INFO - retrieving users...
+2019-11-13 18:29:08,329 - root - INFO - 0 users found
+2019-11-13 18:29:08,331 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,331 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,331 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,332 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,332 - root - INFO - /Hotels-g2600886-M_Sila_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,332 - root - INFO - /Hotels-g2600886-M_Sila_Province-Hotels.html?m=27216-----260088627216
+2019-11-13 18:29:08,334 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,335 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,335 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,336 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,337 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,337 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,338 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,338 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,339 - root - INFO - retrieving users...
+2019-11-13 18:29:08,340 - root - INFO - 0 users found
+2019-11-13 18:29:08,341 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,341 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,341 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,342 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,342 - root - INFO - /Hotels-g2602252-Mascara_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,342 - root - INFO - /Hotels-g2602252-Mascara_Province-Hotels.html?m=27216-----260225227216
+2019-11-13 18:29:08,345 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,345 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,345 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,345 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,347 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,347 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,348 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,348 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,349 - root - INFO - retrieving users...
+2019-11-13 18:29:08,350 - root - INFO - 0 users found
+2019-11-13 18:29:08,351 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,352 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,352 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,353 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,353 - root - INFO - /Hotels-g2602353-Ouargla_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,353 - root - INFO - /Hotels-g2602353-Ouargla_Province-Hotels.html?m=27216-----260235327216
+2019-11-13 18:29:08,355 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,356 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,356 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,357 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,358 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,359 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,359 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,359 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,360 - root - INFO - retrieving users...
+2019-11-13 18:29:08,360 - root - INFO - 0 users found
+2019-11-13 18:29:08,362 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,362 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,363 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,363 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,364 - root - INFO - /Hotels-g2600638-Oran_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,364 - root - INFO - /Hotels-g2600638-Oran_Province-Hotels.html?m=27216-----260063827216
+2019-11-13 18:29:08,366 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,366 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,367 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,367 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,370 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,370 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,371 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,371 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,372 - root - INFO - retrieving users...
+2019-11-13 18:29:08,372 - root - INFO - 0 users found
+2019-11-13 18:29:08,374 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,374 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,374 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,375 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,375 - root - INFO - /Hotels-g2602059-El_Bayadh_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,375 - root - INFO - /Hotels-g2602059-El_Bayadh_Province-Hotels.html?m=27216-----260205927216
+2019-11-13 18:29:08,377 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,378 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,378 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,379 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,381 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,381 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,381 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,383 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,383 - root - INFO - retrieving users...
+2019-11-13 18:29:08,384 - root - INFO - 0 users found
+2019-11-13 18:29:08,385 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,385 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,386 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,386 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,386 - root - INFO - /Hotels-g2602163-Illizi_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,387 - root - INFO - /Hotels-g2602163-Illizi_Province-Hotels.html?m=27216-----260216327216
+2019-11-13 18:29:08,389 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,389 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,390 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,390 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,392 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,393 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,394 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,394 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,394 - root - INFO - retrieving users...
+2019-11-13 18:29:08,395 - root - INFO - 0 users found
+2019-11-13 18:29:08,397 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,397 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,398 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,398 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,398 - root - INFO - /Hotels-g2600842-Borj_Bou_Arreridj_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,398 - root - INFO - /Hotels-g2600842-Borj_Bou_Arreridj_Province-Hotels.html?m=27216-----260084227216
+2019-11-13 18:29:08,401 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,401 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,402 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,402 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,405 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,405 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,406 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,406 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,406 - root - INFO - retrieving users...
+2019-11-13 18:29:08,408 - root - INFO - 0 users found
+2019-11-13 18:29:08,409 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,410 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,411 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,411 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,412 - root - INFO - /Hotels-g2600925-Boumerdes_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,412 - root - INFO - /Hotels-g2600925-Boumerdes_Province-Hotels.html?m=27216-----260092527216
+2019-11-13 18:29:08,414 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,414 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,415 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,416 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,418 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,418 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,419 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,420 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,420 - root - INFO - retrieving users...
+2019-11-13 18:29:08,421 - root - INFO - 0 users found
+2019-11-13 18:29:08,422 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,422 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,423 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,423 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,423 - root - INFO - /Hotels-g2602103-El_Tarf_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,423 - root - INFO - /Hotels-g2602103-El_Tarf_Province-Hotels.html?m=27216-----260210327216
+2019-11-13 18:29:08,426 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,426 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,426 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,427 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,429 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,429 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,430 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,430 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,430 - root - INFO - retrieving users...
+2019-11-13 18:29:08,431 - root - INFO - 0 users found
+2019-11-13 18:29:08,433 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,433 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,433 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,434 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,434 - root - INFO - /Hotels-g2602577-Tindouf_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,434 - root - INFO - /Hotels-g2602577-Tindouf_Province-Hotels.html?m=27216-----260257727216
+2019-11-13 18:29:08,436 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,437 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,437 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,437 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,439 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,440 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,440 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,441 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,441 - root - INFO - retrieving users...
+2019-11-13 18:29:08,442 - root - INFO - 0 users found
+2019-11-13 18:29:08,443 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,443 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,444 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,444 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,445 - root - INFO - /Hotels-g2602605-Tissemsilt_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,445 - root - INFO - /Hotels-g2602605-Tissemsilt_Province-Hotels.html?m=27216-----260260527216
+2019-11-13 18:29:08,450 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,450 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,451 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,451 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,453 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,454 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,454 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,454 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,455 - root - INFO - retrieving users...
+2019-11-13 18:29:08,455 - root - INFO - 0 users found
+2019-11-13 18:29:08,457 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,457 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,458 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,458 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,458 - root - INFO - /Hotels-g2602085-El_Oued_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,459 - root - INFO - /Hotels-g2602085-El_Oued_Province-Hotels.html?m=27216-----260208527216
+2019-11-13 18:29:08,460 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,461 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,461 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,462 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,466 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,466 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,466 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,468 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,468 - root - INFO - retrieving users...
+2019-11-13 18:29:08,469 - root - INFO - 0 users found
+2019-11-13 18:29:08,470 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,470 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,471 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,471 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,472 - root - INFO - /Hotels-g2602203-Khenchela_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,472 - root - INFO - /Hotels-g2602203-Khenchela_Province-Hotels.html?m=27216-----260220327216
+2019-11-13 18:29:08,474 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,474 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,474 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,475 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,477 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,477 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,478 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,478 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,478 - root - INFO - retrieving users...
+2019-11-13 18:29:08,479 - root - INFO - 0 users found
+2019-11-13 18:29:08,481 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,481 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,481 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,482 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,482 - root - INFO - /Hotels-g2602515-Souk_Ahras_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,482 - root - INFO - /Hotels-g2602515-Souk_Ahras_Province-Hotels.html?m=27216-----260251527216
+2019-11-13 18:29:08,484 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,484 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,485 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,485 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,487 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,487 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,488 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,489 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,489 - root - INFO - retrieving users...
+2019-11-13 18:29:08,490 - root - INFO - 0 users found
+2019-11-13 18:29:08,491 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,491 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,492 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,492 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,492 - root - INFO - /Hotels-g2602584-Tipasa_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,493 - root - INFO - /Hotels-g2602584-Tipasa_Province-Hotels.html?m=27216-----260258427216
+2019-11-13 18:29:08,495 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,495 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,496 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,496 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,502 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,503 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,503 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,503 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,504 - root - INFO - retrieving users...
+2019-11-13 18:29:08,504 - root - INFO - 0 users found
+2019-11-13 18:29:08,506 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,506 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,507 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,507 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,507 - root - INFO - /Hotels-g2602286-Mila_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,508 - root - INFO - /Hotels-g2602286-Mila_Province-Hotels.html?m=27216-----260228627216
+2019-11-13 18:29:08,510 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,509 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,511 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,511 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,513 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,513 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,514 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,515 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,515 - root - INFO - retrieving users...
+2019-11-13 18:29:08,516 - root - INFO - 0 users found
+2019-11-13 18:29:08,518 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,518 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,518 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,519 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,519 - root - INFO - /Hotels-g2600554-Ain_Defla_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,519 - root - INFO - /Hotels-g2600554-Ain_Defla_Province-Hotels.html?m=27216-----260055427216
+2019-11-13 18:29:08,521 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,522 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,522 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,523 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,525 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,526 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,527 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,527 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,527 - root - INFO - retrieving users...
+2019-11-13 18:29:08,528 - root - INFO - 0 users found
+2019-11-13 18:29:08,530 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,530 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,530 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,531 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,532 - root - INFO - /Hotels-g2602313-Naama_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,532 - root - INFO - /Hotels-g2602313-Naama_Province-Hotels.html?m=27216-----260231327216
+2019-11-13 18:29:08,534 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,534 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,535 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,535 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,537 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,537 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,538 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,538 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,539 - root - INFO - retrieving users...
+2019-11-13 18:29:08,540 - root - INFO - 0 users found
+2019-11-13 18:29:08,542 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,542 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,542 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,543 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,543 - root - INFO - /Hotels-g2600600-Ain_Temouchent_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,543 - root - INFO - /Hotels-g2600600-Ain_Temouchent_Province-Hotels.html?m=27216-----260060027216
+2019-11-13 18:29:08,545 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,545 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,546 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,546 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,548 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,548 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,549 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,550 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,550 - root - INFO - retrieving users...
+2019-11-13 18:29:08,550 - root - INFO - 0 users found
+2019-11-13 18:29:08,552 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,552 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,553 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,553 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,554 - root - INFO - /Hotels-g1536382-Ghardaia_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,554 - root - INFO - /Hotels-g1536382-Ghardaia_Province-Hotels.html?m=27216-----153638227216
+2019-11-13 18:29:08,556 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,557 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,558 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,558 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,560 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,561 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,561 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,562 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,562 - root - INFO - retrieving users...
+2019-11-13 18:29:08,563 - root - INFO - 0 users found
+2019-11-13 18:29:08,564 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,564 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,565 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,565 - root - INFO - all user ids are ready
+2019-11-13 18:29:08,566 - root - INFO - /Hotels-g2601054-Relizane_Province-Hotels.html?m=27216
+2019-11-13 18:29:08,566 - root - INFO - /Hotels-g2601054-Relizane_Province-Hotels.html?m=27216-----260105427216
+2019-11-13 18:29:08,568 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,568 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,569 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,569 - root - INFO - all review ids are ready
+2019-11-13 18:29:08,571 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,571 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,572 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,573 - root - INFO - all reviews are ready
+2019-11-13 18:29:08,573 - root - INFO - retrieving users...
+2019-11-13 18:29:08,574 - root - INFO - 0 users found
+2019-11-13 18:29:08,574 - root - INFO - [worker 2] shutting down
+2019-11-13 18:29:08,575 - root - INFO - [worker 1] shutting down
+2019-11-13 18:29:08,575 - root - INFO - [worker 3] shutting down
+2019-11-13 18:29:08,576 - root - INFO - all user ids are ready

@@ -5,7 +5,7 @@ from common import TA_ROOT
 import re
 import time
 import threading
-import queue
+import Queue as queue
 import logging
 from tadb import taDB
 

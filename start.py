@@ -33,7 +33,7 @@ def init_logger():
 
     # file handler
     millis = int(round(time.time() * 1000))
-    handler = logging.FileHandler(str(millis) + '.log')
+    handler = logging.FileHandler('logs/'+str(millis) + '.log')
     handler.setLevel(logging.DEBUG)
     formatter = logging.Formatter(
         '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -47,11 +47,21 @@ def load_config():
 
     # speed parameters
     _ = common
-    _.SLEEP_TIME = int(config['THREAD']['SleepTime'])
-    _.SNIPPET_THREAD_NUM = int(config['THREAD']['SnippetThread'])
-    _.DETAIL_THREAD_NUM = int(config['THREAD']['HotelThread'])
-    _.REVIEW_THREAD_NUM = int(config['THREAD']['ReviewThread'])
-    _.USER_THREAD_NUM = int(config['THREAD']['UserThread'])
+    #_.SLEEP_TIME = int(config['THREAD']['SleepTime'])
+    #_.SNIPPET_THREAD_NUM = int(config['THREAD']['SnippetThread'])
+    #_.DETAIL_THREAD_NUM = int(config['THREAD']['HotelThread'])
+    #_.REVIEW_THREAD_NUM = int(config['THREAD']['ReviewThread'])
+    #_.USER_THREAD_NUM = int(config['THREAD']['UserThread'])
+    
+    _.SLEEP_TIME = 2
+    _.SNIPPET_THREAD_NUM = 3
+    _.DETAIL_THREAD_NUM = 3
+    _.REVIEW_THREAD_NUM = 3 
+    _.USER_THREAD_NUM = 3
+
+
+
+
     logging.info('parameters: [{}; {}; {}; {}; {}]'.format(
         _.SLEEP_TIME, _.SNIPPET_THREAD_NUM, _.DETAIL_THREAD_NUM,
         _.REVIEW_THREAD_NUM, _.USER_THREAD_NUM))
@@ -73,15 +83,18 @@ if __name__ == "__main__":
             logging.info('database {} created.'.format(fn))
 
     urls = load_config()
-    # for url in urls:
-    #     gid = re.sub('\D', '', url)
-    #     crawlSnippets.start(gid, url.strip())
-    #     crawlHotels.start(gid)
-    #     crawlReviews.start(gid)
-    # crawlUsers.start()
+    for url in urls:
+	logging.info(url)
+        gid = re.sub('\D', '', url)
+        logging.info(url + '-----' + gid + '----' +url.strip())
+	#crawlSnippets.start(gid, url.strip())
+        crawlHotels.start(gid)
+        crawlReviews.start(gid)
+        crawlUsers.start()
 
-    # with taDB(common.TA_DB) as db:
-    #     db.extract_hotel_info()
-    #     db.extract_review_info()
-    #     db.extract_user_info()
-    #     db.compress()
+    with taDB(common.TA_DB) as db:
+        db.extract_hotel_info()
+        db.extract_review_info()
+        db.extract_user_info()
+        db.compress()
+
