@@ -24,9 +24,10 @@ def find_max_page(soup_container):
 
 
 def find_num_hotels(soup_container):
-    div = soup_container.find('fieldset', id='p13n_PROPTYPE_BOX')
-    num = div.find('span', class_='tab_count').text
-    num = int(re.sub('\D', '', num))
+    # div = soup_container.find('fieldset', id='p13n_PROPTYPE_BOX')
+    # num = div.find('span', 'hotels-sort-filter-header-sort-filter-header__highlight--14Kyo').text
+    num = soup_container.find('span', 'hotels-sort-filter-header-sort-filter-header__highlight--14Kyo').text
+    num = int(re.sub('\d\sof\s', '', num))
     return num
 
 
@@ -103,6 +104,8 @@ def start(gid, init_url):
     logger.info('[location {}] {}'.format(gid, loc_name.replace('_', ' ')))
     soup = common.load_soup_online(init_url)
     num_page = find_max_page(soup)
+    logger.info('hotels Pages {} '.format(num_page))
+    
     num_hotel = find_num_hotels(soup)
     logger.info('{} hotels in {} pages'.format(num_hotel, num_page))
 
