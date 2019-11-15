@@ -19,7 +19,7 @@ REVIEW_PER_PAGE = 5
 REVIEW_CHUNK_SIZE = 300
 EXTRACT_CHUNK_SIZE = 500
 
-TA_ROOT = 'https://www.tripadvisor.com/'
+TA_ROOT = 'https://www.tripadvisor.com'
 TA_DB = 'ta.db'
 
 

@@ -86,8 +86,8 @@ if __name__ == "__main__":
     for url in urls:
 	logging.info(url)
         gid = re.sub('\D', '', url)
-        logging.info(url + '-----' + gid + '----' +url.strip())
-	#crawlSnippets.start(gid, url.strip())
+        logging.info( "--- {} --> gid - {}".format(url, gid))
+	crawlSnippets.start(gid, url.strip())
         crawlHotels.start(gid)
         crawlReviews.start(gid)
         crawlUsers.start()

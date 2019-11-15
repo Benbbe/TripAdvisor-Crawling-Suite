@@ -120,7 +120,7 @@ def review_index_is_valid(hid):
 def start(gid):
     def gather_review_ids(title):
         while True:
-            # logger.info('[worker {}] running'.format(title))
+            logger.info('[worker {}] running'.format(title))
             cur_pair = que.get()
             if cur_pair is None:
                 logger.info('[worker {}] shutting down'.format(title))
@@ -143,7 +143,7 @@ def start(gid):
 
     with taDB(common.TA_DB) as iodb:
         hid_pairs = iodb.get_hotel_url_pairs(gid)
-
+        
     threads = []
     thread_size = common.DETAIL_THREAD_NUM
     for j in range(thread_size):
@@ -153,6 +153,7 @@ def start(gid):
         t.start()
         threads.append(t)
 
+    logger.info('hid_pairs -- {}'.format(len(hid_pairs)))
     [que.put({key: hid_pairs[key]}) for key in hid_pairs
      if not review_index_is_valid(key)]
 
